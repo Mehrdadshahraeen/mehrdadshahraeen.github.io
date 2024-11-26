@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left # Move the picture to the left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -18,8 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Hey guys! What’s up??**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is **[Your Name]**, and I’m a real estate broker based right here in beautiful Seattle! I’ve always been passionate about helping people find their dream homes, but my journey into real estate is anything but ordinary. Before diving into the world of houses, condos, and endless open houses, I spent years working in the tech industry, where I honed my skills in innovation, problem-solving, and a fair share of coffee-fueled coding marathons.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+So why real estate? Honestly, I wanted to do something that felt more personal, more connected to people’s lives—and let’s be real, tech meetings don’t quite compare to the excitement of helping someone find their forever home. But I didn’t leave my tech background behind; I’ve brought it with me to shake things up in real estate! Whether it’s using cutting-edge data analytics to find the best deals, leveraging 3D home tours and virtual staging to make listings pop, or streamlining the buying process with digital tools, I’m all about making things smarter, faster, and more fun.
+
+When I’m not showing homes or geeking out over the latest real estate trends, you’ll probably find me exploring Seattle’s coffee shops (I have a serious latte addiction), hiking in the Pacific Northwest, or brainstorming how to make the home-buying process feel less like a headache and more like an adventure.
+
+So, whether you’re buying, selling, or just curious about what’s happening in the market, let’s connect! I’m here to help you navigate the real estate world with a tech-savvy twist—and maybe even a few laughs along the way.
+
+Let’s find your dream home, Seattle! 🏡✨
