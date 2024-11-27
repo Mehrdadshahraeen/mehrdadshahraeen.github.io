@@ -1,31 +1,30 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
+title: Tools
+nav: true
+nav_order: 4
+permalink: /tools/
 ---
 
 ## Welcome to the Tools Section
 
-Explore our innovative tools! Below is a prototype for **Project 1**, where you can upload your floor plan and get personalized insights.
+Explore our innovative tools! Below is a VR tool that lets you tour houses virtually and discover their unique features.
 
-### Upload Your Floor Plan
-<form id="floor-plan-upload" method="POST" enctype="multipart/form-data" action="/upload">
-  <label for="file-upload">Select your floor plan (PDF or Image):</label><br>
-  <input type="file" id="file-upload" name="floor_plan" accept=".pdf, .png, .jpg, .jpeg" required><br><br>
-  <button type="submit">Upload</button>
-</form>
+### Experience VR Tours
+Choose a property below to begin your virtual tour:
 
-### Chat with AI
-Use our integrated ChatGPT-powered assistant to get insights about your house:
-
-<div id="chat-container">
-  <iframe
-    src="https://chat.openai.com/chat"
-    title="Chat with AI"
-    style="width: 100%; height: 500px; border: none;"
-  ></iframe>
+<div class="vr-tour-container">
+  <ul>
+    <li>
+      <a href="/vr/tour-house1/" target="_blank">House 1: Modern Family Home</a>
+    </li>
+    <li>
+      <a href="/vr/tour-house2/" target="_blank">House 2: Cozy Cottage</a>
+    </li>
+    <li>
+      <a href="/vr/tour-house3/" target="_blank">House 3: Luxury Apartment</a>
+    </li>
+  </ul>
 </div>
+
+---
