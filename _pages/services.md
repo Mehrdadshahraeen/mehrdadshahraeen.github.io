@@ -1,44 +1,34 @@
 ---
 layout: page
-title: Services
-permalink: /services/
+title: JobHunters
+permalink: /jobhunters/
+subtitle: "Empowering Job Seekers to Land Their Dream Roles"
+
+profile:
+  align: left
+  image: jobhunters.jpg
+  image_circular: false
+  more_info: >
+    <p>Contact us: support@referwing.com</p>
+    <p>Location: Seattle, WA</p>
+    <p>Your career journey starts here.</p>
+
+social: true # include social icons
 ---
 
-## Welcome to Our Services Page
+### Welcome, JobHunters!
 
-If you're looking to lease a house, find a rental, buy, or sell a property, you're in the right place! Here's how we can help:
+**JobHunters** is the platform for ambitious job seekers looking to leverage referrals to stand out in today’s competitive job market. At Referwing, we connect you with **WingMates** (referrers) who can help you navigate the hiring process and open doors to incredible opportunities.
 
-### What We Offer:
-- **Lease a House**: Find the perfect place to call home.
-- **Looking for Rent**: Explore rental properties tailored to your needs.
-- **Looking to Buy or Sell**: Navigate the buying or selling process with expert advice.
+#### **Why Join Referwing as a JobHunter?**
+- **Unlock Career Opportunities:** Use trusted referrals to gain a competitive edge.
+- **Build Meaningful Connections:** Expand your professional network with genuine relationships.
+- **Save Time & Effort:** Avoid the job search black hole by connecting directly with referrers.
 
----
+#### **How It Works**
+1. **Create a Profile:** Highlight your skills, experiences, and career aspirations.
+2. **Find a WingMate:** Browse professionals willing to refer candidates in your field.
+3. **Land the Job:** Use referrals to stand out and secure interviews faster.
 
-### Contact Information:
-Feel free to reach out to us directly:
-- **Email**: [you@example.com](mailto:you@example.com)
-- **Phone**: (123) 456-7890
-
----
-
-### Book a Free Consultation
-To schedule a free consultation, fill out the form below:
-
-<form action="https://formspree.io/f/{your-formspree-id}" method="POST">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
-
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
-
-  <label for="message">How can we help you?</label><br>
-  <textarea id="message" name="message" rows="4" required></textarea><br><br>
-
-  <button type="submit">Submit</button>
-</form>
-
----
-
-We look forward to assisting you!
-
+#### **Ready to Start?**
+[Sign Up Now](#) and take the first step towards your dream role. Let Referwing empower your career journey.
