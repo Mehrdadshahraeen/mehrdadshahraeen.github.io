@@ -14,26 +14,49 @@ profile:
     <p>Help others while building your network.</p>
 
 social: true # include social icons
+nav: true
+nav_order: 3
 ---
 
 ### Welcome, WingMates!
 
-**WingMates** are the trusted professionals who empower job seekers by providing referrals to job opportunities. At Referwing, we believe in the power of connections and the incredible value of professionals helping each other succeed.
+**WingMates** are the trusted professionals who empower job seekers by providing referrals to job opportunities. At Referwing, we believe in the power of connections and the incredible value of professionals helping one another succeed.
 
-#### **Why Join Referwing as a WingMate?**
-- **Make a Difference:** Help talented individuals secure their dream roles by sharing opportunities.
-- **Expand Your Network:** Build meaningful relationships with driven job seekers and like-minded professionals.
-- **Earn Recognition:** Be recognized for your contributions to the career journeys of others.
+---
 
-#### **How It Works**
-1. **Create Your Profile:** Highlight your expertise and areas where you can provide referrals.
-2. **Connect with JobHunters:** Browse profiles of job seekers looking for opportunities in your network.
-3. **Make an Impact:** Refer talented individuals and watch them succeed while strengthening your own professional connections.
+### **Why Join Referwing as a WingMate?**
 
-#### **Why Refer with Referwing?**
-- Simplified referral process with direct communication between you and JobHunters.
-- Track the progress of your referrals and their success stories.
-- Join a growing community of professionals committed to uplifting one another.
+- **Make a Difference:** Help talented individuals secure their dream roles by leveraging your network and sharing opportunities.
+- **Expand Your Network:** Build meaningful relationships with driven JobHunters and other professionals in your field.
+- **Earn Rewards:** Many companies offer referral bonuses for successful hires, and for those that don’t, Referwing ensures you’re compensated for your efforts.
+- **Gain Recognition:** Be acknowledged for your contributions in shaping someone’s career success.
 
-#### **Ready to Get Started?**
-[Sign Up as a WingMate](#) and start making a difference in someone's career journey today.
+---
+
+### **How It Works**
+
+1. **Create Your Profile:**
+   - Highlight your expertise and the industries where you can offer referrals.
+   - Let JobHunters know how you can support them in their career journey.
+
+2. **Connect with JobHunters:**
+   - Browse profiles of job seekers who match your expertise or network.
+   - Offer referrals to companies or roles that fit their skills.
+
+3. **Make an Impact:**
+   - Help JobHunters secure their dream roles.
+   - Earn rewards and recognition while strengthening your professional connections.
+
+---
+
+### **Why Refer with Referwing?**
+
+- **Simplified Process:** We streamline communication between you and JobHunters, making referrals easy and efficient.
+- **Track Referrals:** Monitor the progress of your referrals and see the success stories you help create.
+- **Community of Professionals:** Join a growing network of WingMates committed to building careers and uplifting others.
+
+---
+
+### **Ready to Get Started?**
+
+[Sign Up as a WingMate](#) and start making a difference in someone's career journey today. Help talented individuals, earn rewards, and build lasting professional relationships. Together, let’s make career connections simple and impactful.
