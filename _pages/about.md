@@ -1,45 +1,58 @@
 ---
-layout: about
-title: About Referwing
+layout: home
+title: RadReality
 permalink: /
-subtitle: <a href='#'>Connecting Job Seekers with Referrals</a>
+subtitle: <a href='#'>Experience Reality Like Never Before</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: radrealty_logo.jpg
   image_circular: false
   more_info: >
-    <p>Email: contact@referwing.com</p>
+    <p>Email: support@radreality.com</p>
     <p>Seattle, WA</p>
-    <p>Empowering Job Seekers Through Referrals</p>
+    <p>Your Gateway to Augmented Reality</p>
 
 news: false # disables the news section
 selected_papers: false # disables the publications section
 social: true # includes social icons at the bottom of the page
 ---
 
-### Looking for a Job but Struggling to Find One?
+### Welcome to RadReality
 
-**Tired of applying to countless jobs without a referral?**  
-**Frustrated by the lack of response from companies?**  
-**Don’t worry—we’ve got your back!**
-
-### **Why Referrals Matter**
-Did you know that having a referral can boost your chances of landing a job by **65%**? Referrals help your application stand out and get noticed faster by hiring managers. That’s where **Referwing** comes in.
+**Step into the future with RadReality!**  
+**Transform your ideas into immersive augmented experiences.**
 
 ---
 
-### **What is Referwing?**
-Referwing is a job-matching platform that bridges the gap between job seekers and professionals who can refer them to opportunities. It’s designed to make referrals easy, effective, and rewarding for everyone.
-
-#### **How Referwing Helps You**
-- **Connect with Professionals:** Gain access to WingMates (referrers) ready to help you succeed.
-- **Stand Out:** Referrals give you an edge in competitive job markets.
-- **Build Your Network:** Expand your connections and open doors to new opportunities.
+### **Why Choose RadReality?**
+- **Seamless AR Integration:** Whether it’s furniture, beauty products, or anything else, see how it fits in your space before you commit.
+- **Intuitive and Fun to Use:** Built with simplicity and interaction in mind for everyone.
+- **Endless Possibilities:** From home decor to art, RadReality bridges the gap between imagination and reality.
 
 ---
 
-### **Join Referwing Today!**
-Let us help you unlock your full potential with the power of referrals. Whether you’re a job seeker or a professional looking to help others, **Referwing** is here to make it happen.
+### **What is RadReality?**
+RadReality is your ultimate platform to explore the world of augmented reality. Whether you’re a homeowner visualizing furniture, a stylist perfecting looks, or just curious about AR, RadReality makes it happen effortlessly.
 
-**Your next opportunity is just one referral away!**
+---
+
+### **Explore Our Features**
+1. **Augmented Reality Viewer:**
+   - Visualize items in your environment with precision.
+   - Rotate, scale, and interact with 3D models.
+
+2. **Product Catalog:**
+   - Browse a wide variety of products across categories.
+   - Find the perfect fit for your needs.
+
+3. **Easy Sharing:**
+   - Capture your AR experiences and share them with friends.
+
+---
+
+### **Ready to Transform Your Reality?**
+Join RadReality today and discover how augmented reality can elevate your world.  
+**Your imagination, our technology—endless possibilities.**
+
+---
